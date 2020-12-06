@@ -1,0 +1,146 @@
+Peer_26:client WARNING 0: Not enough peers, fetching more (0, 1)
+Peer_26:client INFO 65.67616274953721: Connecting to Peer_27:bootstrap
+Peer_26:client INFO 130.9764649797415: Received message <Hello:> from Peer_27:bootstrap
+Peer_26:client INFO 131.1535472345417: Received message <RequestPeers:> from Peer_27:bootstrap
+Peer_26:client INFO 131.1535472345417: Sending message <PeerList> to Peer_27:bootstrap
+Peer_26:client INFO 1000: Sending message <Ping:> to Peer_27:bootstrap
+Peer_26:client INFO 1065.2870901432432: Received message <Hello:> from Peer_14:peer
+Peer_26:client INFO 1065.2870901432432: Connecting to Peer_14:peer
+Peer_26:client INFO 1065.2870901432432: Sending message <Hello:> to Peer_14:peer
+Peer_26:client INFO 1065.2870901432432: Sending message <RequestPeers:> to Peer_14:peer
+Peer_26:client INFO 1065.5683137287297: Received message <Ping:> from Peer_27:bootstrap
+Peer_26:client INFO 1065.5683137287297: Sending message <Pong:> to Peer_27:bootstrap
+Peer_26:client INFO 1065.8284085224159: Received message <Hello:> from Peer_20:peer
+Peer_26:client INFO 1065.8284085224159: Connecting to Peer_20:peer
+Peer_26:client INFO 1065.8284085224159: Sending message <Hello:> to Peer_20:peer
+Peer_26:client INFO 1065.8284085224159: Sending message <RequestPeers:> to Peer_20:peer
+Peer_26:client INFO 1078.042154211617: Received message <Hello:> from Peer_16:peer
+Peer_26:client INFO 1078.042154211617: Connecting to Peer_16:peer
+Peer_26:client INFO 1078.042154211617: Sending message <Hello:> to Peer_16:peer
+Peer_26:client INFO 1078.042154211617: Sending message <RequestPeers:> to Peer_16:peer
+Peer_26:client INFO 1130.8815698626831: Received message <Pong:> from Peer_27:bootstrap
+Peer_26:client INFO 1196.449028161278: Received message <PeerList> from Peer_14:peer
+Peer_26:client INFO 1196.9355929306628: Received message <PeerList> from Peer_20:peer
+Peer_26:client INFO 1234.032217262379: Received message <PeerList> from Peer_16:peer
+Peer_26:client WARNING 1500: Too many peers connected (4, 1)
+Peer_26:client INFO 1578.0109949104753: Received message <RequestPeers:> from Peer_16:peer
+Peer_26:client INFO 1578.0109949104753: Sending message <PeerList> to Peer_16:peer
+Peer_26:client WARNING 2000: Too many peers connected (4, 1)
+Peer_26:client INFO 2000: Sending message <Ping:> to Peer_27:bootstrap
+Peer_26:client INFO 2000: Sending message <Ping:> to Peer_14:peer
+Peer_26:client INFO 2000: Sending message <Ping:> to Peer_20:peer
+Peer_26:client INFO 2065.400344295414: Received message <Ping:> from Peer_27:bootstrap
+Peer_26:client INFO 2065.400344295414: Sending message <Pong:> to Peer_27:bootstrap
+Peer_26:client INFO 2065.480000657817: Received message <Ping:> from Peer_20:peer
+Peer_26:client INFO 2065.480000657817: Sending message <Pong:> to Peer_20:peer
+Peer_26:client INFO 2065.502657810535: Received message <Ping:> from Peer_14:peer
+Peer_26:client INFO 2065.502657810535: Sending message <Pong:> to Peer_14:peer
+Peer_26:client INFO 2130.9544869624874: Received message <Pong:> from Peer_27:bootstrap
+Peer_26:client INFO 2130.9801801921158: Received message <Pong:> from Peer_20:peer
+Peer_26:client INFO 2131.4002115237226: Received message <Pong:> from Peer_14:peer
+Peer_26:client WARNING 2500: Too many peers connected (4, 1)
+Peer_26:client INFO 2500: Sending message <Ping:> to Peer_16:peer
+Peer_26:client INFO 2565.6776084913017: Received message <Hello:> from Peer_11:peer
+Peer_26:client INFO 2565.6776084913017: Connecting to Peer_11:peer
+Peer_26:client INFO 2565.6776084913017: Sending message <Hello:> to Peer_11:peer
+Peer_26:client INFO 2565.6776084913017: Sending message <RequestPeers:> to Peer_11:peer
+Peer_26:client INFO 2577.9942415022538: Received message <Ping:> from Peer_16:peer
+Peer_26:client INFO 2577.9942415022538: Sending message <Pong:> to Peer_16:peer
+Peer_26:client INFO 2655.952723294172: Received message <Pong:> from Peer_16:peer
+Peer_26:client INFO 2696.567320583726: Received message <PeerList> from Peer_11:peer
+Peer_26:client WARNING 3000: Too many peers connected (5, 1)
+Peer_26:client INFO 3000: Sending message <Ping:> to Peer_27:bootstrap
+Peer_26:client INFO 3000: Sending message <Ping:> to Peer_14:peer
+Peer_26:client INFO 3000: Sending message <Ping:> to Peer_20:peer
+Peer_26:client INFO 3065.468859682617: Received message <Ping:> from Peer_20:peer
+Peer_26:client INFO 3065.468859682617: Sending message <Pong:> to Peer_20:peer
+Peer_26:client INFO 3065.4781798759673: Received message <Ping:> from Peer_14:peer
+Peer_26:client INFO 3065.4781798759673: Sending message <Pong:> to Peer_14:peer
+Peer_26:client INFO 3065.737488878068: Received message <Ping:> from Peer_27:bootstrap
+Peer_26:client INFO 3065.737488878068: Sending message <Pong:> to Peer_27:bootstrap
+Peer_26:client INFO 3130.736738116864: Received message <Pong:> from Peer_20:peer
+Peer_26:client INFO 3130.9219774820576: Received message <Pong:> from Peer_14:peer
+Peer_26:client INFO 3131.3605836114616: Received message <Pong:> from Peer_27:bootstrap
+Peer_26:client WARNING 3500: Too many peers connected (5, 1)
+Peer_26:client WARNING 3500: Peer_27:bootstrap too slow
+Peer_26:client WARNING 3500: Breaking connection with Peer_27:bootstrap
+Peer_26:client INFO 3500: Sending message <Ping:> to Peer_16:peer
+Peer_26:client INFO 3500: Sending message <Ping:> to Peer_11:peer
+Peer_26:client INFO 3565.434789789675: Received message <Ping:> from Peer_11:peer
+Peer_26:client INFO 3565.434789789675: Sending message <Pong:> to Peer_11:peer
+Peer_26:client INFO 3578.003295155891: Received message <Ping:> from Peer_16:peer
+Peer_26:client INFO 3578.003295155891: Sending message <Pong:> to Peer_16:peer
+Peer_26:client INFO 3630.8735172935103: Received message <Pong:> from Peer_11:peer
+Peer_26:client INFO 3655.791357890553: Received message <Pong:> from Peer_16:peer
+Peer_26:client WARNING 4000: Too many peers connected (4, 1)
+Peer_26:client INFO 4000: Sending message <Ping:> to Peer_14:peer
+Peer_26:client INFO 4000: Sending message <Ping:> to Peer_20:peer
+Peer_26:client INFO 4065.3973035202134: Received message <Ping:> from Peer_20:peer
+Peer_26:client INFO 4065.3973035202134: Sending message <Pong:> to Peer_20:peer
+Peer_26:client INFO 4065.755383593706: Received message <Ping:> from Peer_14:peer
+Peer_26:client INFO 4065.755383593706: Sending message <Pong:> to Peer_14:peer
+Peer_26:client INFO 4130.867335993837: Received message <Pong:> from Peer_14:peer
+Peer_26:client INFO 4131.20344044957: Received message <Pong:> from Peer_20:peer
+Peer_26:client WARNING 4500: Too many peers connected (4, 1)
+Peer_26:client WARNING 4500: Peer_20:peer too slow
+Peer_26:client WARNING 4500: Breaking connection with Peer_20:peer
+Peer_26:client WARNING 4500: Peer_14:peer too slow
+Peer_26:client WARNING 4500: Breaking connection with Peer_14:peer
+Peer_26:client WARNING 4500: Peer_16:peer too slow
+Peer_26:client WARNING 4500: Breaking connection with Peer_16:peer
+Peer_26:client INFO 4500: Sending message <Ping:> to Peer_11:peer
+Peer_26:client INFO 4565.55852086029: Received message <Ping:> from Peer_11:peer
+Peer_26:client INFO 4565.55852086029: Sending message <Pong:> to Peer_11:peer
+Peer_26:client INFO 4630.657835295943: Received message <Pong:> from Peer_11:peer
+Peer_26:client INFO 5500: Sending message <Ping:> to Peer_11:peer
+Peer_26:client INFO 5565.521737924176: Received message <Ping:> from Peer_11:peer
+Peer_26:client INFO 5565.521737924176: Sending message <Pong:> to Peer_11:peer
+Peer_26:client INFO 5630.8308817802745: Received message <Pong:> from Peer_11:peer
+Peer_26:client INFO 6500: Sending message <Ping:> to Peer_11:peer
+Peer_26:client INFO 6565.592212989953: Received message <Ping:> from Peer_11:peer
+Peer_26:client INFO 6565.592212989953: Sending message <Pong:> to Peer_11:peer
+Peer_26:client INFO 6630.880518670202: Received message <Pong:> from Peer_11:peer
+Peer_26:client INFO 7500: Sending message <Ping:> to Peer_11:peer
+Peer_26:client INFO 7565.501486585495: Received message <Ping:> from Peer_11:peer
+Peer_26:client INFO 7565.501486585495: Sending message <Pong:> to Peer_11:peer
+Peer_26:client INFO 7631.141112340811: Received message <Pong:> from Peer_11:peer
+Peer_26:client INFO 8500: Sending message <Ping:> to Peer_11:peer
+Peer_26:client INFO 8565.334248014027: Received message <Ping:> from Peer_11:peer
+Peer_26:client INFO 8565.334248014027: Sending message <Pong:> to Peer_11:peer
+Peer_26:client INFO 8631.002451248183: Received message <Pong:> from Peer_11:peer
+Peer_26:client INFO 9500: Sending message <Ping:> to Peer_11:peer
+Peer_26:client INFO 9565.597620967501: Received message <Ping:> from Peer_11:peer
+Peer_26:client INFO 9565.597620967501: Sending message <Pong:> to Peer_11:peer
+Peer_26:client INFO 9631.08456232798: Received message <Pong:> from Peer_11:peer
+Peer_26:client INFO 10000: Sending message <GossipMessage:1_26> to Peer_11:peer
+Peer_26:client INFO 10200.0: Sending message <GossipMessage:2_26> to Peer_11:peer
+Peer_26:client INFO 10400.0: Sending message <GossipMessage:3_26> to Peer_11:peer
+Peer_26:client INFO 10500: Sending message <Ping:> to Peer_11:peer
+Peer_26:client INFO 10600.0: Sending message <GossipMessage:4_26> to Peer_11:peer
+Peer_26:client INFO 10630.97570961495: Received message <Pong:> from Peer_11:peer
+Peer_26:client INFO 10800.0: Sending message <GossipMessage:5_26> to Peer_11:peer
+Peer_26:client INFO 11000.0: Sending message <GossipMessage:6_26> to Peer_11:peer
+Peer_26:client INFO 11200.0: Sending message <GossipMessage:7_26> to Peer_11:peer
+Peer_26:client INFO 11400.0: Sending message <GossipMessage:8_26> to Peer_11:peer
+Peer_26:client INFO 11500: Sending message <Ping:> to Peer_11:peer
+Peer_26:client INFO 11600.0: Sending message <GossipMessage:9_26> to Peer_11:peer
+Peer_26:client INFO 11630.830294753612: Received message <Pong:> from Peer_11:peer
+Peer_26:client INFO 11800.0: Sending message <GossipMessage:10_26> to Peer_11:peer
+Peer_26:client INFO 12000.0: Sending message <GossipMessage:11_26> to Peer_11:peer
+Peer_26:client INFO 12200.0: Sending message <GossipMessage:12_26> to Peer_11:peer
+Peer_26:client INFO 12400.0: Sending message <GossipMessage:13_26> to Peer_11:peer
+Peer_26:client INFO 12500: Sending message <Ping:> to Peer_11:peer
+Peer_26:client INFO 12600.0: Sending message <GossipMessage:14_26> to Peer_11:peer
+Peer_26:client INFO 12631.020131004667: Received message <Pong:> from Peer_11:peer
+Peer_26:client INFO 12800.0: Sending message <GossipMessage:15_26> to Peer_11:peer
+Peer_26:client INFO 13000.0: Sending message <GossipMessage:16_26> to Peer_11:peer
+Peer_26:client INFO 13200.0: Sending message <GossipMessage:17_26> to Peer_11:peer
+Peer_26:client INFO 13400.0: Sending message <GossipMessage:18_26> to Peer_11:peer
+Peer_26:client INFO 13500: Sending message <Ping:> to Peer_11:peer
+Peer_26:client INFO 13600.0: Sending message <GossipMessage:19_26> to Peer_11:peer
+Peer_26:client INFO 13631.302205448228: Received message <Pong:> from Peer_11:peer
+Peer_26:client INFO 13800.0: Sending message <GossipMessage:20_26> to Peer_11:peer
+Peer_26:client INFO 14500: Sending message <Ping:> to Peer_11:peer
+Peer_26:client INFO 14565.478826466173: Received message <Ping:> from Peer_11:peer
+Peer_26:client INFO 14565.478826466173: Sending message <Pong:> to Peer_11:peer
+Peer_26:client INFO 14631.175591839732: Received message <Pong:> from Peer_11:peer

@@ -1,0 +1,172 @@
+!!python/object:networkx.classes.graph.Graph
+_adj:
+  1:
+    2: &id001 {}
+    6: &id005 {}
+  2:
+    1: *id001
+    3: &id002 {}
+    7: &id006 {}
+  3:
+    2: *id002
+    4: &id003 {}
+    8: &id008 {}
+  4:
+    3: *id003
+    5: &id004 {}
+    9: &id010 {}
+  5:
+    4: *id004
+    10: &id012 {}
+  6:
+    1: *id005
+    7: &id007 {}
+    11: &id014 {}
+    26: &id041 {}
+  7:
+    2: *id006
+    6: *id007
+    8: &id009 {}
+    12: &id015 {}
+  8:
+    3: *id008
+    7: *id009
+    9: &id011 {}
+    13: &id017 {}
+  9:
+    4: *id010
+    8: *id011
+    10: &id013 {}
+    14: &id019 {}
+  10:
+    5: *id012
+    9: *id013
+    15: &id021 {}
+  11:
+    6: *id014
+    12: &id016 {}
+    16: &id023 {}
+  12:
+    7: *id015
+    11: *id016
+    13: &id018 {}
+    17: &id024 {}
+  13:
+    8: *id017
+    12: *id018
+    14: &id020 {}
+    18: &id026 {}
+  14:
+    9: *id019
+    13: *id020
+    15: &id022 {}
+    19: &id028 {}
+  15:
+    10: *id021
+    14: *id022
+    20: &id030 {}
+  16:
+    11: *id023
+    17: &id025 {}
+    21: &id032 {}
+  17:
+    12: *id024
+    16: *id025
+    18: &id027 {}
+    22: &id033 {}
+  18:
+    13: *id026
+    17: *id027
+    19: &id029 {}
+    23: &id035 {}
+  19:
+    14: *id028
+    18: *id029
+    20: &id031 {}
+    24: &id037 {}
+  20:
+    15: *id030
+    19: *id031
+    25: &id039 {}
+  21:
+    16: *id032
+    22: &id034 {}
+  22:
+    17: *id033
+    21: *id034
+    23: &id036 {}
+  23:
+    18: *id035
+    22: *id036
+    24: &id038 {}
+  24:
+    19: *id037
+    23: *id038
+    25: &id040 {}
+  25:
+    20: *id039
+    24: *id040
+  26:
+    6: *id041
+_node: &id043
+  1:
+    type: peer
+  2:
+    type: peer
+  3:
+    type: peer
+  4:
+    type: peer
+  5:
+    type: peer
+  6:
+    type: peer
+  7:
+    type: peer
+  8:
+    type: peer
+  9:
+    type: peer
+  10:
+    type: peer
+  11:
+    type: peer
+  12:
+    type: peer
+  13:
+    type: peer
+  14:
+    type: peer
+  15:
+    type: peer
+  16:
+    type: peer
+  17:
+    type: peer
+  18:
+    type: peer
+  19:
+    type: peer
+  20:
+    type: peer
+  21:
+    type: peer
+  22:
+    type: peer
+  23:
+    type: peer
+  24:
+    type: peer
+  25:
+    type: peer
+  26:
+    type: client
+adjlist_inner_dict_factory: &id042 !!python/name:builtins.dict ''
+adjlist_outer_dict_factory: *id042
+edge_attr_dict_factory: *id042
+graph: {}
+graph_attr_dict_factory: *id042
+node_attr_dict_factory: *id042
+node_dict_factory: *id042
+nodes: !!python/object:networkx.classes.reportviews.NodeView
+  _nodes: *id043

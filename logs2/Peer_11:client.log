@@ -1,0 +1,72 @@
+Peer_11:client WARNING 0: Not enough peers, fetching more (0, 1)
+Peer_11:client INFO 0.23982054127686786: Connecting to Peer_12:bootstrap
+Peer_11:client INFO 0.48707675961505353: Received message <Hello:> from Peer_12:bootstrap
+Peer_11:client INFO 0.5519421034864279: Received message <RequestPeers:> from Peer_12:bootstrap
+Peer_11:client INFO 0.5519421034864279: Sending message <PeerList> to Peer_12:bootstrap
+Peer_11:client INFO 500.2225010751912: Received message <RequestPeers:> from Peer_12:bootstrap
+Peer_11:client INFO 500.2225010751912: Sending message <PeerList> to Peer_12:bootstrap
+Peer_11:client INFO 1000.3132240108131: Received message <Hello:> from Peer_6:peer
+Peer_11:client INFO 1000.3132240108131: Connecting to Peer_6:peer
+Peer_11:client INFO 1000.3132240108131: Sending message <Hello:> to Peer_6:peer
+Peer_11:client INFO 1000.3132240108131: Sending message <RequestPeers:> to Peer_6:peer
+Peer_11:client INFO 1000.822397436682: Received message <PeerList> from Peer_6:peer
+Peer_11:client INFO 1200.0: Sending message <GossipMessage:2_11> to Peer_6:peer
+Peer_11:client INFO 1400.0: Sending message <GossipMessage:3_11> to Peer_6:peer
+Peer_11:client WARNING 1500: Too many peers connected (2, 1)
+Peer_11:client INFO 1500: Sending message <Ping:> to Peer_12:bootstrap
+Peer_11:client INFO 1500.2796190161114: Received message <Ping:> from Peer_12:bootstrap
+Peer_11:client INFO 1500.2796190161114: Sending message <Pong:> to Peer_12:bootstrap
+Peer_11:client INFO 1500.5760411548213: Received message <Pong:> from Peer_12:bootstrap
+Peer_11:client INFO 1600.0: Sending message <GossipMessage:4_11> to Peer_6:peer
+Peer_11:client INFO 1800.0: Sending message <GossipMessage:5_11> to Peer_6:peer
+Peer_11:client WARNING 2000: Too many peers connected (2, 1)
+Peer_11:client INFO 2000: Sending message <Ping:> to Peer_6:peer
+Peer_11:client INFO 2000.0: Sending message <GossipMessage:6_11> to Peer_6:peer
+Peer_11:client INFO 2000.5097555569487: Received message <Pong:> from Peer_6:peer
+Peer_11:client INFO 2200.0: Sending message <GossipMessage:7_11> to Peer_6:peer
+Peer_11:client INFO 2400.0: Sending message <GossipMessage:8_11> to Peer_6:peer
+Peer_11:client WARNING 2500: Too many peers connected (2, 1)
+Peer_11:client INFO 2500: Sending message <Ping:> to Peer_12:bootstrap
+Peer_11:client INFO 2500.2218586362414: Received message <Ping:> from Peer_12:bootstrap
+Peer_11:client INFO 2500.2218586362414: Sending message <Pong:> to Peer_12:bootstrap
+Peer_11:client INFO 2500.5000276320566: Received message <Pong:> from Peer_12:bootstrap
+Peer_11:client INFO 2600.0: Sending message <GossipMessage:9_11> to Peer_6:peer
+Peer_11:client INFO 2800.0: Sending message <GossipMessage:10_11> to Peer_6:peer
+Peer_11:client WARNING 3000: Too many peers connected (2, 1)
+Peer_11:client INFO 3000: Sending message <Ping:> to Peer_6:peer
+Peer_11:client INFO 3000.0: Sending message <GossipMessage:11_11> to Peer_6:peer
+Peer_11:client INFO 3000.4983256193195: Received message <Pong:> from Peer_6:peer
+Peer_11:client INFO 3200.0: Sending message <GossipMessage:12_11> to Peer_6:peer
+Peer_11:client INFO 3400.0: Sending message <GossipMessage:13_11> to Peer_6:peer
+Peer_11:client WARNING 3500: Too many peers connected (2, 1)
+Peer_11:client WARNING 3500: Peer_12:bootstrap too slow
+Peer_11:client WARNING 3500: Breaking connection with Peer_12:bootstrap
+Peer_11:client INFO 3600.0: Sending message <GossipMessage:14_11> to Peer_6:peer
+Peer_11:client INFO 3800.0: Sending message <GossipMessage:15_11> to Peer_6:peer
+Peer_11:client INFO 4000: Sending message <Ping:> to Peer_6:peer
+Peer_11:client INFO 4000.0: Sending message <GossipMessage:16_11> to Peer_6:peer
+Peer_11:client INFO 4000.6066711224594: Received message <Pong:> from Peer_6:peer
+Peer_11:client INFO 4200.0: Sending message <GossipMessage:17_11> to Peer_6:peer
+Peer_11:client INFO 4400.0: Sending message <GossipMessage:18_11> to Peer_6:peer
+Peer_11:client WARNING 4500: Breaking connection with Peer_6:peer
+Peer_11:client WARNING 4500: Not enough peers, fetching more (0, 1)
+Peer_11:client WARNING 5000: Not enough peers, fetching more (0, 1)
+Peer_11:client WARNING 5500: Not enough peers, fetching more (0, 1)
+Peer_11:client WARNING 6000: Not enough peers, fetching more (0, 1)
+Peer_11:client WARNING 6500: Not enough peers, fetching more (0, 1)
+Peer_11:client WARNING 7000: Not enough peers, fetching more (0, 1)
+Peer_11:client WARNING 7500: Not enough peers, fetching more (0, 1)
+Peer_11:client WARNING 8000: Not enough peers, fetching more (0, 1)
+Peer_11:client WARNING 8500: Not enough peers, fetching more (0, 1)
+Peer_11:client WARNING 9000: Not enough peers, fetching more (0, 1)
+Peer_11:client WARNING 9500: Not enough peers, fetching more (0, 1)
+Peer_11:client WARNING 10000: Not enough peers, fetching more (0, 1)
+Peer_11:client WARNING 10500: Not enough peers, fetching more (0, 1)
+Peer_11:client WARNING 11000: Not enough peers, fetching more (0, 1)
+Peer_11:client WARNING 11500: Not enough peers, fetching more (0, 1)
+Peer_11:client WARNING 12000: Not enough peers, fetching more (0, 1)
+Peer_11:client WARNING 12500: Not enough peers, fetching more (0, 1)
+Peer_11:client WARNING 13000: Not enough peers, fetching more (0, 1)
+Peer_11:client WARNING 13500: Not enough peers, fetching more (0, 1)
+Peer_11:client WARNING 14000: Not enough peers, fetching more (0, 1)
+Peer_11:client WARNING 14500: Not enough peers, fetching more (0, 1)
